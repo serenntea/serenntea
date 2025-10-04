@@ -3,13 +3,13 @@
 ```python
 >>> 💮 🇨🇦 ୨୧ 🇨🇳
 
->>> 👜 undergrad
-
 >>> 🐟 fish
 
 >>> 🍅 tomatoes
 
 >>> 🖥️ math
+
+>>> 📈 economics
 ```
 ## 🌹 My Statistics
 ---
