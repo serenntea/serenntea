@@ -6,9 +6,11 @@
 
 >>> 🔖 undergrad student
 
->>> 🐟 math fish art
+>>> 🐟 i like fish
 
 >>> 🍅 I like tomatoes
+
+>>> 🖥️ math
 ```
 ## 📓 Stats
 ---
