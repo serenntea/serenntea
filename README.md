@@ -1,13 +1,13 @@
 ## 🌺 Hello!
 ---
-```
+```python
 >>> 💮 🇨🇦 / 🇨🇳
 
-<>>> 🔖 undergrad student
+>>> 🔖 undergrad student
 
 >>> 🐟 i like fish
 
->>> 🍅 I like tomatoes
+>>> 🍅 i like tomatoes
 
 >>> 🖥️ math
 ```
