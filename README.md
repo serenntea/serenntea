@@ -3,7 +3,7 @@
 ```
 >>> 💮 🇨🇦 / 🇨🇳
 
->>> 🔖 undergrad student
+<>>> 🔖 undergrad student
 
 >>> 🐟 i like fish
 
