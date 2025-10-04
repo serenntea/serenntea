@@ -5,8 +5,6 @@
 
 >>> 🐟 fish
 
->>> 🍅 tomatoes
-
 >>> 🖥️ math
 
 >>> 📈 economics
