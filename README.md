@@ -19,4 +19,3 @@
 ![banner](https://raw.githubusercontent.com/serenntea/serenntea/refs/heads/main/banner.jpg)  
 
 ---
-#
