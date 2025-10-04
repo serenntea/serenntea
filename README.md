@@ -3,7 +3,7 @@
 ---
 
 ```
-> 🇨🇦 english / cantonese
+> 💮 🇨🇦 / 🇨🇳
 > 🔖 undergrad student
 > 🐟 math fish art
 ```
