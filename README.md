@@ -3,9 +3,9 @@
 ---
 
 ```
-> Hi
-> Bleh
-> hi
+> english / cantonese
+> undergrad student
+> math fish art
 ```
 
 ## 📓 Stats
