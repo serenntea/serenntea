@@ -1,5 +1,4 @@
-## 🌺 harvest season
-
+## 🌺 Harvest season
 ---
 ```
 >>> 💮 🇨🇦 / 🇨🇳
