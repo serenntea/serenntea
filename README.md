@@ -3,9 +3,9 @@
 ---
 
 ```
-> english / cantonese
-> undergrad student
-> math fish art
+> 🇨🇦 english / cantonese
+> 🔖 undergrad student
+> 🐟 math fish art
 ```
 
 ## 📓 Stats
