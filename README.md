@@ -7,7 +7,7 @@
 
 >>> 🖥️ math
 
->>> 💤 sleep
+>>> 💤 sleepy
 ```
 ## ☁️ Statistics
 ---
