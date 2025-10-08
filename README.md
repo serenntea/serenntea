@@ -7,7 +7,7 @@
 
 >>> 🖥️ math
 
->>> 📈 economics
+>>> 💤 zzz
 ```
 ## ☁️ Statistics
 ---
