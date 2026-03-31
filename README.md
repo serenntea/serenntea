@@ -5,7 +5,7 @@
 
 >>> 🐟 fish
 
->>> 🖥️ math 
+>>> 🖥️ math & economics
 
 >>> 💤 sleepy 
 ```
