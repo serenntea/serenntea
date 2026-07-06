@@ -1,8 +1,6 @@
 ## 🎣 Hello!
 ---
 ```python
->>> 🖌️ art
-
 >>> 🐟 fish
 
 >>> 🖥️ math & economics
